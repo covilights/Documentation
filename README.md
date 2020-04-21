@@ -6,8 +6,9 @@ When the peak of COVID-19 cases is overcome, effective contact tracing is though
 
 Since COVID-19 does not stop at borders, we believe such contact tracing should be a truly open, global project. But since many users will be based in the EU, we also want to make it GDPR compliant, and offer that data protection "gold standard" to all users. 
 
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+## Documentation
+See our Wiki for project documentation:
+https://github.com/covilights/Documentation/wiki
 
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
