@@ -1,4 +1,4 @@
-## CoviLights
+## About CoviLights
 CoviLights is a project to create a GDPR compliant contact tracing app for Covid-19 contact tracing purposes. 
 
 ## Motivation
